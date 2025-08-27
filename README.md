@@ -1,1 +1,5 @@
-# Spotify-Clone-Android-App
+![Project Screenshot](spotify_clone/screenshots/1.png)
+![Project Screenshot](spotify_clone/screenshots/2.png)
+![Project Screenshot](spotify_clone/screenshots/3.png)
+![Project Screenshot](spotify_clone/screenshots/4.png)
+![Project Screenshot](spotify_clone/screenshots/5.png)
